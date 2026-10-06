@@ -1,0 +1,3 @@
+[submodule "vendor/centillion-android-sdk"]
+	path = vendor/centillion-android-sdk
+	url = https://github.com/Centillion-Labs/centillion-android-sdk.git
